@@ -14,6 +14,9 @@
 -----------------------------------------------------------------------------------------------------------------------
 ### EGIT - spectral analysis
 **1_HVSR**: Horizontal-to-Vertical Ratio (HVSR) - (1) Determine a single reference site for GIT; (2) Establish an MW-ML relationship for the initial GIT step.<br/>
+1_make_HVSRlst.sh <br/>
+2_run_HVSR.sh <br/>
+3_Fig_HVSRs.ipynb <br/>
 
 **2_GIT_1st**: Perform the initial GIT using HVSR, providing: (1) path attenuation; (2) An MW-ML relationship for Reference Site Correction<br/>
 
