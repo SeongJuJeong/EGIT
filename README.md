@@ -5,11 +5,12 @@
 
 **0_H_vector**: Combine two horizontal S-wave spectra into a root-mean-square vector.<br/>
 
-1_make_lst.sh<br/>
+1_make_lst.sh <br/>
 2_make_lst2.sh <br/>
-3_H_vector_sum.ipynb<br/>
-4_make_lst_SGT04.sh<br/>
-5_make_Fig01.sh<br/>
+3_H_vector_sum.ipynb <br/>
+4_make_lst_SGT04.sh <br/>
+5_make_Fig01.sh <br/>
+
 -----------------------------------------------------------------------------------------------------------------------
 ### EGIT - spectral analysis
 **1_HVSR**: Horizontal-to-Vertical Ratio (HVSR) - (1) Determine a single reference site for GIT; (2) Establish an MW-ML relationship for the initial GIT step.<br/>
