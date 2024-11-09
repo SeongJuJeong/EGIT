@@ -1,11 +1,12 @@
 # Empirical Green's Function-based Generalzied Inversion Technique (EGIT)
-## process flow
+## Process flow
 ### Preprocessing
 **0_data_processing**: Input data should include S-wave time series, S-wave spectra, and noise spectra in SAC format [It's okay with other format if you read them in Python]
 
 **0_H_vector**: Combine two horizontal S-wave spectra into a root-mean-square vector.
 
 -----------------------------------------------------------------------------------------------------------------------
+### EGIT - spectral analysis
 **1_HVSR**: Horizontal-to-Vertical Ratio (HVSR) - (1) Determine a single reference site for GIT; (2) Establish an MW-ML relationship for the initial GIT step.
 
 **2_GIT_1st**: Perform the initial GIT using HVSR, providing: (1) path attenuation; (2) An MW-ML relationship for Reference Site Correction
